@@ -1,0 +1,1 @@
+Learn how to program with Python code on your Raspberry Pi using IDLE. Get started by learning how to use the Python shell for simple commands, then you'll use variables, loops, conditionals and learn about different data structures.
